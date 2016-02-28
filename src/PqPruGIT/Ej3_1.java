@@ -6,7 +6,7 @@ public class Ej3_1 {
 
     public static void main(String[] args) 
     {
-        //Clase modificada el 29/2 desde la web github
+        // Clase modificada el 29/2 desde la web github
         char borracho;
         
         borracho = 'S';
